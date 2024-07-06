@@ -20,10 +20,8 @@ This iOS application allows users to view open and closed GitHub issues for an o
 
 ## Screenshots
 
-Loading | Open Issues List | Closed Issues List | Issue Details
-:-------------------------:|:-------------------------:|:-------------------------:
-![](https://github.com/MilkTaro798/GitHub-Issues/blob/main/Simulator%20Screenshot-1.png) | ![](https://github.com/MilkTaro798/GitHub-Issues/blob/main/Simulator%20Screenshot-2.png) | ![](https://github.com/MilkTaro798/GitHub-Issues/blob/main/Simulator%20Screenshot-3.png) | ![](https://github.com/MilkTaro798/GitHub-Issues/blob/main/Simulator%20Screenshot-4.png)
-
+<img src="https://github.com/MilkTaro798/GitHub-Issues/blob/main/Simulator%20Screenshot-1.png" width="225"> <img src="https://github.com/MilkTaro798/GitHub-Issues/blob/main/Simulator%20Screenshot-2.png" width="225"> <img src="https://github.com/MilkTaro798/GitHub-Issues/blob/main/Simulator%20Screenshot-3.png" width="225"> <img src="https://github.com/MilkTaro798/GitHub-Issues/blob/main/Simulator%20Screenshot-4.png" width="225">
+loading                     Open Issues List                     Closed Issues List                     Issue Details
 ## Setup Instructions
 
 1. Clone the repo 
