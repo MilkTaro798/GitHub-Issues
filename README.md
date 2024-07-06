@@ -18,10 +18,6 @@ This iOS application allows users to view open and closed GitHub issues for an o
 - Supports pull-to-refresh to fetch updated issue data
 - Customizes navigation bar colors based on issue state (red for open, green for closed)
 
-## Screenshots
-
-<img src="https://github.com/MilkTaro798/GitHub-Issues/blob/main/Simulator%20Screenshot-1.png" width="225"> <img src="https://github.com/MilkTaro798/GitHub-Issues/blob/main/Simulator%20Screenshot-2.png" width="225"> <img src="https://github.com/MilkTaro798/GitHub-Issues/blob/main/Simulator%20Screenshot-3.png" width="225"> <img src="https://github.com/MilkTaro798/GitHub-Issues/blob/main/Simulator%20Screenshot-4.png" width="225">
-loading                     Open Issues List                     Closed Issues List                     Issue Details
 ## Setup Instructions
 
 1. Clone the repo 
@@ -36,3 +32,13 @@ loading                     Open Issues List                 �
 
 - GitHub REST API: https://docs.github.com/en/rest
 - App icons: https://www.iconfinder.com/search?q=github
+
+## Screenshots
+Loading
+![](https://github.com/MilkTaro798/GitHub-Issues/blob/main/Simulator%20Screenshot-1.png) 
+Open Issues List
+![](https://github.com/MilkTaro798/GitHub-Issues/blob/main/Simulator%20Screenshot-2.png)
+Closed Issues List
+![](https://github.com/MilkTaro798/GitHub-Issues/blob/main/Simulator%20Screenshot-3.png)
+Issue Details
+![](https://github.com/MilkTaro798/GitHub-Issues/blob/main/Simulator%20Screenshot-4.png)
